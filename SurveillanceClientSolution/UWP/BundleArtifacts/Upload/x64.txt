@@ -1,0 +1,2 @@
+MainPackage=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\x64\Release\Upload\UWP_0.1.4.0_x64.appx
+SymbolPackage=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\x64\Release\Upload\UWP_0.1.4.0\UWP_0.1.4.0_x64.appxsym

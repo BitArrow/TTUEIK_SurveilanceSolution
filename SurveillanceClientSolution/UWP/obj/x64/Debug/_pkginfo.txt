@@ -1,0 +1,1 @@
+C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\AppPackages\UWP_0.1.10.0_Debug_Test\UWP_0.1.10.0_x86_x64_arm_Debug.appxbundle

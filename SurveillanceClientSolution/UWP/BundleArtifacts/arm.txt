@@ -1,0 +1,6 @@
+MainPackage=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Debug\UWP_0.1.15.0_ARM_Debug.appx
+SymbolPackage=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\AppPackages\UWP_0.1.15.0_Debug_Test\UWP_0.1.15.0_ARM_Debug.appxsym
+ResourcePack=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Debug\UWP_0.1.15.0_scale-100.appx
+ResourcePack=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Debug\UWP_0.1.15.0_scale-125.appx
+ResourcePack=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Debug\UWP_0.1.15.0_scale-150.appx
+ResourcePack=C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Debug\UWP_0.1.15.0_scale-400.appx

@@ -1,0 +1,1 @@
+C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\bin\ARM\Release\Upload\UWP_0.1.4.0\UWP_0.1.4.0_x86_x64_arm.appxbundle

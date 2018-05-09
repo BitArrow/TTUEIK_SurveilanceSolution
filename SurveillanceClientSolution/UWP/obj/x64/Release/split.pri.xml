@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="29666Bitarrow.SurveillanceClient" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,20,24,30,32,36,40,48,60,64,72,80,96</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UWP.xr.xml" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/UWP.xr.xml">
+				<Candidate type="Path">
+					<Value>UWP.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="AppList">
+					<NamedResource name="AppList.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/AppList/AppList.png">
+						<Candidate qualifiers="TargetSize-96, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-96_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-96" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-96.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-80, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-80_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-80" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-80.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-72, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-72_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-72" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-72.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-64, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-64_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-64" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-64.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-60, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-60_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-60" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-60.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-48_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-40, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-40_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-40" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-40.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-36, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-36_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-36" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-36.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-32_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-30, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-30_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-30" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-30.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-256_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-24_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-20, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-20_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-20" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-20.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-16_altform-unplated.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\AppList\AppList.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Large">
+					<NamedResource name="Large310x310Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Large/Large310x310Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Large\Large310x310Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Medium">
+					<NamedResource name="Medium150x150Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Medium/Medium150x150Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Medium\Medium150x150Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Small">
+					<NamedResource name="Small71x71Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Small/Small71x71Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Small\Small71x71Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SplashScreen">
+					<NamedResource name="SplashScreen.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/SplashScreen/SplashScreen.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\SplashScreen\SplashScreen.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Store">
+					<NamedResource name="StoreLogo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Store/StoreLogo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Store\StoreLogo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Wide">
+					<NamedResource name="Wide310x150Logo.png" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Assets/Wide/Wide310x150Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\Wide\Wide310x150Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://29666Bitarrow.SurveillanceClient/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

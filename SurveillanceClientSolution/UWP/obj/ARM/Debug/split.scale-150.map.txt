@@ -1,0 +1,13 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\split.scale-150.pri"			"resources.pri"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\Wide\Wide310x150Logo.scale-150.png"			"Assets\Wide\Wide310x150Logo.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\Store\StoreLogo.scale-150.png"			"Assets\Store\StoreLogo.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\SplashScreen\SplashScreen.scale-150.png"			"Assets\SplashScreen\SplashScreen.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\Small\Small71x71Logo.scale-150.png"			"Assets\Small\Small71x71Logo.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\Medium\Medium150x150Logo.scale-150.png"			"Assets\Medium\Medium150x150Logo.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\Large\Large310x310Logo.scale-150.png"			"Assets\Large\Large310x310Logo.scale-150.png"
+"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\ARM\Debug\PackageLayout\Assets\AppList\AppList.scale-150.png"			"Assets\AppList\AppList.scale-150.png"

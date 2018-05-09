@@ -1,0 +1,1 @@
+C:\VS\BuildingSurveillance\SurveillanceIoTSolution\Device\Device.csproj;arm

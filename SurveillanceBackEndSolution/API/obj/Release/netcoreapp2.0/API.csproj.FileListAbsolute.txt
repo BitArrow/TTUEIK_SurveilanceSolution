@@ -1,0 +1,15 @@
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\API.deps.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\API.runtimeconfig.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\API.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\API.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\Core.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Release\netcoreapp2.0\Core.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.AssemblyInfo.cs
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.csproj.CopyComplete
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Release\netcoreapp2.0\API.pdb

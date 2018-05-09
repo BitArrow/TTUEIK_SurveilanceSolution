@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{CE54FDEC-23B6-4757-AF87-32E884DB1421}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{457B6239-414B-41CE-B53B-2ACB32B8A719}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functions", "Functions", "{BAC63C17-DCB0-4E66-A341-904185039331}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SurveillanceFunctions", "IotMessageFunctionTest\SurveillanceFunctions.csproj", "{84BC4F3E-FD53-4CE9-B75A-986305AC39CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE54FDEC-23B6-4757-AF87-32E884DB1421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE54FDEC-23B6-4757-AF87-32E884DB1421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE54FDEC-23B6-4757-AF87-32E884DB1421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE54FDEC-23B6-4757-AF87-32E884DB1421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457B6239-414B-41CE-B53B-2ACB32B8A719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457B6239-414B-41CE-B53B-2ACB32B8A719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457B6239-414B-41CE-B53B-2ACB32B8A719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457B6239-414B-41CE-B53B-2ACB32B8A719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BC4F3E-FD53-4CE9-B75A-986305AC39CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BC4F3E-FD53-4CE9-B75A-986305AC39CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BC4F3E-FD53-4CE9-B75A-986305AC39CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BC4F3E-FD53-4CE9-B75A-986305AC39CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{84BC4F3E-FD53-4CE9-B75A-986305AC39CD} = {BAC63C17-DCB0-4E66-A341-904185039331}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {439F8AF4-4F37-4AF5-B23B-CD5406E1C1A5}
+	EndGlobalSection
+EndGlobal

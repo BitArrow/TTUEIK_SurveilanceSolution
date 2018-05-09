@@ -1,0 +1,9 @@
+App.xbf
+MainPage.xbf
+Views\Dialogs\Group\AddDevice.xbf
+Views\Dialogs\Group\AddGroup.xbf
+Views\Dialogs\Group\DeleteDevice.xbf
+Views\Dialogs\Group\DeleteGroup.xbf
+Views\Dialogs\Group\EditGroup.xbf
+Views\GroupSecurityDeviceView.xbf
+Views\GroupView.xbf

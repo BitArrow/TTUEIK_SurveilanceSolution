@@ -1,0 +1,1 @@
+C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\UWP.csproj;x64

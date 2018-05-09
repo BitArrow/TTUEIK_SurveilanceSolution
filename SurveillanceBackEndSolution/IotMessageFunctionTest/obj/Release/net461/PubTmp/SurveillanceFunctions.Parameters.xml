@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="SurveillanceFunc" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\VS\\BuildingSurveillance\\SurveillanceBackEndSolution\\IotMessageFunctionTest\\obj\\Release\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

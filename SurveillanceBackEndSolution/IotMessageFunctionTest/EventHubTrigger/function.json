@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "myQueueItem",
+      "direction": "in",
+      "path": "sendnotifications",
+      "connection": "MinuTestimiseIoTHub_events_IOTHUB",
+      "consumerGroup": "$Default",
+      "cardinality": "one"
+    }
+  ],
+  "disabled": true
+}

@@ -1,0 +1,7 @@
+/In:"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\x64\Release\ilc\in"
+/Lib:"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\tools\x64\ilc\lib\Private"
+/WinMD:"C:\VS\BuildingSurveillance\SurveillanceClientSolution\UWP\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"AppId":1001,"AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","HostName":"Dev14","Id":"0d954e0f-8340-4142-a6a3-555c84a86aca","IsOptedIn":true,"ProcessStartTime":636595586594309884,"UserId":"cd5f7867-0311-4b21-8a7e-d335586e0609"}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.compiler\1.7.3\tools\LibraryXML"
+/RunOnlyPreDR

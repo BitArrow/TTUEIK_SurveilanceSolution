@@ -1,0 +1,47 @@
+﻿<Page
+    x:Class="UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Transitions>
+        <TransitionCollection>
+            <EntranceThemeTransition />
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:Name="btnTest" Label="Test" Icon="Filter" Click="btnTest_Click" ></AppBarButton>
+            <AppBarSeparator></AppBarSeparator>
+            <AppBarButton x:Name="btnAddQuestion" Label="Create Group" Icon="Add" Click="btnAddQuestion_Click" ></AppBarButton>
+            <AppBarButton x:Name="btnRefreshQuestion" Label="Refresh" Icon="Refresh" Click="btnRefreshQuestion_Click" ></AppBarButton>
+
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="LoginBtn" Label="Login" Icon="Edit" Click="LoginBtn_Click"></AppBarButton>
+                <AppBarButton x:Name="LogoutBtn" Label="Logout" Icon="Delete" Click="LogoutBtn_Click" Visibility="Collapsed"></AppBarButton>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        
+        <StackPanel>
+            <TextBlock FontSize="30" Margin="10,10,0,20">My Surveillance Hub</TextBlock>
+            <ListView x:Name="lvGroups" ItemsSource="{Binding GroupList}" IsItemClickEnabled="True" ItemClick="lvGroups_ItemClick"
+                  HorizontalAlignment="Stretch" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Name}"></TextBlock>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <TextBlock Text="{Binding IPAddress}" Margin="0,10,0,0"></TextBlock>
+            <TextBlock Margin="0,20,0,0">Server is:</TextBlock>
+            <TextBlock x:Name="tbServerStatus">Off</TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

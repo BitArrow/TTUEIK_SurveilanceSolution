@@ -1,0 +1,186 @@
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\host.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\SurveillanceFunctions.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\SurveillanceFunctions.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Http.Formatting.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Web.Http.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Host.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Extensions.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.Edm.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.OData.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.Services.Client.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Threading.Tasks.Dataflow.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Win32.Primitives.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\NCrontab.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Newtonsoft.Json.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.AppContext.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Console.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Diagnostics.DiagnosticSource.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Globalization.Calendars.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.Compression.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.Compression.ZipFile.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.FileSystem.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.FileSystem.Primitives.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Http.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Sockets.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Algorithms.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Encoding.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Primitives.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.X509Certificates.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Spatial.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\System.Spatial.resources.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.ValueTuple.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Xml.ReaderWriter.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.WindowsAzure.Storage.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.IO.Compression.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Net.Http.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.Net.Http.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net461\System.Security.Cryptography.Algorithms.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.Security.Cryptography.Encoding.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net461\System.Security.Cryptography.X509Certificates.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csprojResolveAssemblyReference.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csproj.CoreCompileInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.AssemblyInfoInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.AssemblyInfo.cs
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csproj.CopyComplete
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.pdb
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\host.json
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\SurveillanceFunctions.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\SurveillanceFunctions.pdb
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Http.Formatting.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Web.Http.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.KeyVault.Core.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Host.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Extensions.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Azure.WebJobs.Extensions.Http.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.Edm.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.OData.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Data.Services.Client.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Threading.Tasks.Dataflow.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.Win32.Primitives.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\NCrontab.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Newtonsoft.Json.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.AppContext.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Console.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Diagnostics.DiagnosticSource.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Globalization.Calendars.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.Compression.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.Compression.ZipFile.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.FileSystem.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.IO.FileSystem.Primitives.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Http.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Net.Sockets.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.Primitives.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Spatial.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\de\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\es\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\fr\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\it\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ja\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ko\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\ru\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hans\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\zh-Hant\System.Spatial.resources.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.ValueTuple.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\System.Xml.ReaderWriter.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\Microsoft.WindowsAzure.Storage.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.3\System.IO.Compression.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.IO.Compression.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Net.Http.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.Net.Http.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\osx\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net461\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.3\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net46\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\unix\lib\netstandard1.6\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\bin\Debug\net461\bin\runtimes\win\lib\net461\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csprojResolveAssemblyReference.cache
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csproj.CoreCompileInputs.cache
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.AssemblyInfoInputs.cache
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.AssemblyInfo.cs
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.csproj.CopyComplete
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\IotMessageFunctionTest\obj\Debug\net461\SurveillanceFunctions.pdb

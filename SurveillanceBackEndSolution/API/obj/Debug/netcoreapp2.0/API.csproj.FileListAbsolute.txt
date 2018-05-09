@@ -1,0 +1,41 @@
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\Tauri\source\repos\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\Core.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\Core.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csproj.CopyComplete
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.dll
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\VS\BuildingSurveillance\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.deps.json
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\API.pdb
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\Core.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\bin\Debug\netcoreapp2.0\Core.pdb
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.csproj.CopyComplete
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.dll
+F:\OneDrive\ITK\Diplomitöö\Diplomitöö rakendus\SurveillanceBackEndSolution\API\obj\Debug\netcoreapp2.0\API.pdb
