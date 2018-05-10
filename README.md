@@ -2,6 +2,8 @@
 
 Used sources for this solution:
 
+https://swagger.io/
+
 https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-protocols-oauth-code
 
 https://www.linkedin.com/pulse/sign-azure-ad-b2c-using-c-webauthenticationbroker-alexander-viken
